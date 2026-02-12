@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Eco System
 
 AI-powered job aggregation and career platform (React + FastAPI + MongoDB).

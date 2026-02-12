@@ -29,3 +29,9 @@ frontend/build/
 # Logs and misc
 *.log
 .pnp.js
+venv/
+__pycache__/
+.env
+node_modules/
+build/
+dist/
